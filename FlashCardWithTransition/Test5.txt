@@ -1,0 +1,100 @@
+401 義務 ぎむ Nghĩa vụ ,trách nhiệm
+402 疑問 ぎもん Câu hỏi ,vấn đề
+403 逆 ぎゃく Ngược lại ,đối diện
+404 キャプテン キャプテン Đội trưởng
+405 キャンプ キャンプ Cắm trại
+406 九 きゅう Số 9
+407 旧 きゅう Cũ
+408 級 きゅう Lớp học ,cấp bậc
+409 球 きゅう Toàn cầu ,bóng
+410 休暇 きゅうか Ngày lễ ,ngày nghỉ ,nghỉ phép
+411 休憩 きゅうけい Nghỉ ngơi,giải lao
+412 急激 きゅうげき Cấp tiến,đột ngột
+413 吸収 きゅうしゅう Hấp thụ,thu hút
+414 救助 きゅうじょ Cứu trợ,viện trợ
+415 急速 きゅうそく Nhanh chóng
+416 急に きゅうに Đột ngột
+417 給料 きゅうりょう Tiền lương
+418 器用 きよう Khéo léo,tiện dụng
+419 教科書 きょうかしょ Sách giáo khoa
+420 競技 きょうぎ Trò chơi,trận đấu ,cuộc thi
+421 行儀 ぎょうぎ Cách cư xử
+422 供給 きょうきゅう Cung cấp
+423 教師 きょうし Giáo viên
+424 教授 きょうじゅ Giờ học
+425 強調 きょうちょう Nhấn mạnh
+426 共通 きょうつう Cùng làm ,cộng thông ,công tác
+427 共同 きょうどう Hợp tác ,liên kết
+428 恐怖 きょうふ Sợ hãi,khủng bố
+429 協力 きょうりょく Hợp lực ,hợp tác
+430 強力 きょうりょく Sức mạnh
+431 許可 きょか Cho phép ,phê duyệt
+432 局 きょく Cục ,trạm
+433 巨大 きょだい Khổng lồ ,rất lớn
+434 嫌う きらう Ghét ,không thích
+435 霧 きり Sương mù
+436 切れ きれ Cắt
+437 切れる きれる Cắt giảm
+438 キロ キロ Kilo
+439 記録 きろく Đăng ký
+440 議論 ぎろん Tranh luận,thảo luận
+441 金 きん Vàng
+442 銀 ぎん Bạc
+443 禁煙 きんえん Cấm hút thuốc
+444 金額 きんがく Số tiền
+445 金庫 きんこ Kho bạc
+446 禁止 きんし Cấm
+447 金銭 きんせん Tiền mặt
+448 金属 きんぞく Kim loại
+449 近代 きんだい Ngày nay
+450 緊張 きんちょう Hồi hộp ,căng thẳng
+451 筋肉 きんにく Cơ bắp
+452 金融 きんゆう Tiền tệ lưu thông
+453 金曜 きんよう Thứ 6
+454 九 く Chín
+455 句 く Câu
+456 食う くう Ăn
+457 偶然 ぐうぜん Ngẩu nhiên
+458 臭い くさい Mùi ,mùi hôi
+459 鎖 くさり chuỗi
+460 腐る くさる Xấu đi,thối hư
+461 癖 くせ Thói quen
+462 管 くだ Đường ,ống
+463 具体 ぐたい Cụ thể
+464 下さる くださる Để cung cấp cho
+465 下り くだり Xuống
+466 苦痛 くつう Đau đớn
+467 ぐっすり ぐっすり Ngủ say
+468 区別 くべつ Phân biệt
+469 組 くみ Tổ ,nhóm
+470 組合 くみあい Hiệp hội ,công đoàn
+471 組む くむ Cùng nhau
+472 曇 くもり Đám mây
+473 位 くらい Cấp bậc
+474 暮らし くらし Sinh hoạt,sống
+475 クラシック クラシック Nhạc cổ điển
+476 暮らす くらす Sinh sống
+477 グラス グラス Thủy tinh
+478 グランド グランド Mặt đất
+479 クリーム クリーム Kem
+480 繰り返す くりかえす Lặp lại
+481 クリスマス クリスマス Giáng sinh
+482 狂う くるう Điên khùng,trục trặc
+483 グループ グループ Nhóm
+484 苦しい くるしい Khó,khổ ,đau đớn
+485 苦しむ くるしむ Đau khổ
+486 暮れ くれ Hoàng hôn,kết thúc
+487 苦労 くろう Khổ lao ,phiền hà
+488 加える くわえる Thêm ,phụ thêm
+489 詳しい くわしい Tường tận,chi tiết
+490 加わる くわわる Tham gia,gia tăng
+491 訓 くん Âm kun
+492 軍 ぐん Quân đội,lực lượng
+493 軍隊 ぐんたい Quân đội
+494 訓練 くんれん Thực hành ,học tập
+495 下 げ Dưới ,bên dưới
+496 計 けい Kế hoạch
+497 敬意 けいい Tôn trọng ,danh dự
+498 経営 けいえい Kinh doanh
+499 計画 けいかく Kế hoạch,chương trình
+500 景気 けいき Cảnh sắc

@@ -1,0 +1,100 @@
+1 体温 たいおん nhiệt độ
+2 大会 たいかい quy ước, giải đấu, hàng loạt cuộc họp, cuộc biểu tình
+3 大気 たいき bầu không khí
+4 代金 だいきん giá cả, thanh toán, chi phí
+5 退屈 たいくつ tình trạng mệt mỏi, chán nản
+6 滞在 たいざい lưu trú, tạm trú
+7 大使 たいし Đại sứ
+8 湾 わん Vịnh
+9 大した たいした đáng kể, lớn, quan trọng, có ý nghĩa, một vấn đề lớn
+10 対象 たいしょう mục tiêu, đối tượng , chủ đề
+11 大臣 だいじん bộ trưởng nội các
+12 対する たいする đối mặt, đối chất, để chống lại
+13 大戦 たいせん chiến tranh, trận chiến lớn
+14 大抵 たいてい thường, nói chung
+15 態度 たいど thái độ, cách
+16 大統領 だいとうりょ chủ tịch, giám đốc điều hành
+17 大半 たいはん đa số, chủ yếu là, nói chung
+18 代表 だいひょう đại diện, đại diện, đoàn đại biểu, loại, ví dụ, mô hình
+19 大部分 だいぶぶん hầu hết các phần, một phần lớn, đa số
+20 タイプライター may đanh chư
+21 大変 たいへん khủng khiếp, rất
+22 逮捕 たいほ bắt giữ, lo âu, chụp
+23 ダイヤ ダイヤ sơ đồ,lịch trình, kim cương
+24 太陽 たいよう mặt trời, năng lượng mặt trời
+25 平ら たいら mức độ, độ phẳng, mịn, bình tĩnh, đồng bằng
+26 代理 だいり cơ quan đại diện, Phó Giám đốc, đại lý
+27 大陸 たいりく lục địa
+28 倒す たおす để ném xuống, để đánh bại, để đưa xuống, để thổi xuống
+29 我々 われわれ Chúng tôi
+30 宝 たから kho báu
+31 だから だから như vậy, do đó
+32 宅 たく nhà ở, nhà, chồng
+33 だけど だけど tuy nhiên
+34 確かめる たしかめる để xác định
+35 多少 たしょう nhiều hơn hoặc ít hơn, một chút, một chút, một số
+36 助ける たすける để giúp đỡ, để tiết kiệm, để giải cứu
+37 ただ ただ miễn phí, chỉ
+38 唯 ただ miễn phí, chỉ duy nhất, duy nhất, thông thường, phổ biến
+39 戦い たたかい chiến đấu, đấu tranh, xung đột
+40 戦う たたか để chiến đấu,để chống lại
+41 叩く たたく để tấn công, người vỗ tay, bụi, để đánh bại
+42 直ちに ただちに cùng một lúc, ngay lập tức, trực tiếp
+43 立ち上がる たちあがる đứng lên
+44 立場 たちば quan điểm, vị trí, tình hình
+45 経つ たつ để vượt qua, hết hiệu lực
+46 達する たっする tiếp cận, để có được
+47 悪口 わるくち Nói xấu ,vu khống
+48 唯 たった miễn phí, chỉ duy nhất, duy nhất, thông thường, phổ biến
+49 だって だって nhưng, bởi vì, thậm chí, cũng có thể, quá
+50 たっぷり たっぷり đầy đủ, rất nhiều, phong phú
+51 割る わる Phân chia,cắt ,giảm một nửa
+52 縦 たて chiều dài, chiều cao
+53 たとえ たとえ sự so sánh, ẩn dụ, ngụ ngôn
+54 谷 たに thung lung
+55 他人 たにん một người khác, người không liên quan, người ngoài cuộc, người lạ
+56 種 たね hạt giống, các tài liệu, nguyên nhân, nguồn
+57 束 たば bó
+58 度 たび truy cập cho lần xuất hiện
+59 旅 たび du lịch, chuyến đi, hành trình
+60 たびたび たびたび thường xuyên, liên tục
+61 多分 たぶん có lẽ
+62 玉 たま bóng, hình cầu, đồng xu
+63 球 たま toàn cầu, hình cầu, bóng
+64 弾 たま viên đạn, bắn, vỏ
+65 偶 たま thậm chí
+66 偶々 たまたま tình cờ, bất ngờ, vô tình, một cách tình cờ
+67 たまらない たまらない không thể chịu đựng nổi
+68 黙る だまる phải im lặng
+69 駄目 だめ vô dụng, không tốt, tuyệt vọng
+70 試し ためし thử nghiệm, kiểm tra
+71 試す ためす để cố gắng, để kiểm tra
+72 便り たより tin tức, loan báo Tin, thông tin, thư từ, thư
+73 頼る たよる nơi nương tựa, tin tưởng vào, phụ thuộc vào
+74 誰か だれか một ai đó, ai đó
+75 段 だん bước, cầu thang, chuyến bay của các bước, lớp, cấp bậc, trình độ
+76 単位 たんい đơn vị, mệnh giá, tín dụng
+77 単語 たんご từ, từ vựng, (thường) ký tự đơn từ
+78 男子 だんし thanh niên
+79 単純 たんじゅん đơn giản
+80 誕生 たんじょう sinh
+81 ダンス ダンス nhảy
+82 団体 だんたい tổ chức, hiệp hội
+83 担当 たんとう (in) đảm nhiệm
+84 単なる たんなる chỉ, đơn giản, tuyệt đối
+85 単に たんに đơn giản, chỉ là, chỉ có, chỉ duy nhất
+86 地 ち đất
+87 地位 ちい (xã hội) vị trí, tình trạng
+88 地域 ちいき khu vực
+89 チーズ チーズ pho mát
+90 チーム チーム đội
+91 知恵 ちえ trí tuệ, trí thông minh
+92 地下 ちか tầng hầm, dưới lòng đất
+93 違い ちがい sự khác biệt
+94 違いない ちがいない chắc chắn, không nhầm lẫn
+95 近頃 ちかごろ gần đây, ngày nay
+96 地球 ちきゅう trái đất
+97 地区 ちく quận, huyện, phần, khu vực
+98 遅刻 ちこく chậm trễ, trễ tới
+99 知事 ちじ quận đốc
+100 知識 ちしき kiến thức, thông tin

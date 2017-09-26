@@ -1,0 +1,100 @@
+501 経験 けいけん Kinh nghiệm
+502 傾向 けいこう Khuynh hướng
+503 警告 けいこく Cảnh cáo
+504 計算 けいさん Tính toán
+505 掲示 けいじ Thông báo ,yết thị
+506 刑事 けいじ Hình sự
+507 芸術 げいじゅつ Nghệ thuật
+508 契約 けいやく Hợp đồng,thỏa thuận
+509 経由 けいゆ Thông qua
+510 ケース ケース Khi
+511 ゲーム ゲーム Game
+512 怪我 けが Bị thương,chấn thương
+513 劇 げき Vở kịch
+514 劇場 げきじょう Nhà hát
+515 体育 たいいく giáo dục thể chất, thể dục, thể thao
+516 化粧 けしょう Hóa trang,trang điểm
+517 けち けち Keo kiệt
+518 結果 けっか Kết quả
+519 欠陥 けっかん Khiếm khuyết,khuyết điểm
+520 結局 けっきょく Kết cục
+521 決心 けっしん Quyết định,xác định
+522 欠席 けっせき Vắng mặt
+523 決定 けってい Quyết định
+524 欠点 けってん Khuyết điểm
+525 月曜 げつよう Thứ 2
+526 結論 けつろん Kết luận
+527 煙 けむり Khói
+528 券 けん Vé ,phiếu,chứng chỉ
+529 県 けん Quận
+530 軒 けん Mái hiên,mái nhà
+531 喧嘩 けんか Cãi nhau
+532 見解 けんかい Ý kiến,quan điểm
+533 限界 げんかい Giới hạn,ràng buộc
+534 現金 げんきん Tiền mặt
+535 言語 げんご Ngôn ngữ
+536 健康 けんこう Sức khỏe
+537 検査 けんさ Kiểm tra
+538 現在 げんざい Hiện tại
+539 現実 げんじつ Hiện thực
+540 現象 げんしょう Hiện tượng
+541 現状 げんじょう Tình trạng hiện tại ,hiện trạng
+542 建設 けんせつ Xây dựng,thành lập
+543 現代 げんだい Hiện đại
+544 建築 けんちく Kiến trúc ,xây dựng
+545 見当 けんとう Ngày nay
+546 検討 けんとう Tham khảo ,xem xét
+547 現場 げんば Hiện trường
+548 憲法 けんぽう Hiến pháp
+549 権利 けんり Quyền ,đặc quyền
+550 後 ご Sau đó ,kể từ sau đó
+551 語 ご Từ ,ngôn ngữ
+552 恋 こい Tình yêu,yêu
+553 濃い こい Dày ,đậm
+554 恋人 こいびと Người yêu
+555 幸運 こううん May mắn ,vận may
+556 講演 こうえん Bài giảng ,địa chỉ
+557 効果 こうか Hiệu quả
+558 硬貨 こうか Tiền xu
+559 高価 こうか Giá cao
+560 豪華 ごうか Tuyệt vời ,tuyệt đẹp
+561 合格 ごうかく Thi đậu
+562 交換 こうかん Trao đổi ,có đi có lại
+563 航空 こうけい Quang cảnh,cảnh tượng
+564 合計 ごうけい Tổng cộng ,tổng số tiền
+565 攻撃 こうけん Đóng góp,dịch vụ
+566 広告 こうこく Quảng cáo
+567 交際 こうさい Hiệp hội
+568 後者 こうしゃ Sau này
+569 工場 こうば Nhà máy,nhà xưởng
+570 構成 こうせい Thành phần,tổ chức
+571 高速 こうそく Cao tốc , tốc độ cao
+572 行動 こうどう Hành động
+573 強盗 ごうとう Cường bạo,cướp giật
+574 幸福 こうふく Hạnh phúc
+575 公平 こうへい Công bằng
+576 候補 こうほ Ứng xử
+577 考慮 こうりょ Xem xét,tham khảo
+578 越える こえる Vượt qua
+579 コーチ コーチ Huấn luyện viên
+580 コード コード Mã ,dây nhau
+581 氷 こおり Đóng băng,đá lạnh
+582 凍る こおる Đông lại
+583 ゴール ゴール Goal
+584 誤解 ごかい Hiểu lầm
+585 語学 ごがく Ngôn ngữ học
+586 呼吸 こきゅう Hô hấp
+587 こきょう こきょう Quê hương ,làng quê
+588 極 ごく Khá rất
+589 国語 こくご Ngôn ngữ quốc gia
+590 黒板 こくばん Bảng đen
+591 克服 こくふく Khắc phục
+592 国民 こくみん Công dân,con người ,người dân
+593 穀物 こくもつ Ngũ cốc
+594 ここ ここ Chỗ này
+595 腰 こし Eo,hông
+596 個人 こじん Cá nhân,tư nhân
+597 越す こす Đi qua
+598 国家 こっかい Quốc hội
+599 国境 こっきょう Biên giới,biên cương
+600 骨折 こっせつ Gãy xương

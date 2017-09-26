@@ -1,0 +1,100 @@
+701 支出 ししゅつ Chi tiêu,chi phí
+702 事情 じじょう Tình hình ,sự tình
+703 詩人 しじん Nhà thơ
+704 自身 じしん Chính mình,cá nhân
+705 沈む しずむ Chìm xuống ,cảm thấy chán nản
+706 思想 しそう Tư tưởng ,suy nghĩ
+707 舌 した lưỡi
+708 次第 しだい Ngay lập tức,thứ tự
+709 事態 じたい Tình hình
+710 従う したがう Tuân thủ ,làm theo,tuân theo
+711 したがって したがって Do đó,phù hợp với
+712 支度 したく Chuẩn bị
+713 親しい したしい Thân mật,gần gũi
+714 七 しち Số 7
+715 質 しつ Chất lượng ,tính chất
+716 失業 しつぎょう Thất nghiệp
+717 実験 じっけん Thực nghiệm
+718 実現 じつげん Thực hiện
+719 実行 じっこう Thực hành
+720 実際 じっさい Thực tế
+721 実施 じっし Thực thi,ban hành
+722 じっと じっと Cố định ,vững chắc
+723 実に じつに Thực sự,chắc chắn
+724 実は じつは Thực sự là,bằng cách này
+725 失望 しつぼう Thất vọng
+726 支店 してん Chi nhánh cửa hàng
+727 指導 しどう Chỉ đạo
+728 自動 じどう Tự động
+729 品 しはい Chi phối
+730 芝居 しばい Quy tắc,diều khiển ,chỉ đạo
+731 しばしば しばしば Chơi ,bộ phim truyền hình
+732 芝生 しばふ Thường xuyên,một lần nữa
+733 支払 しはらい Chi trả ,thanh toán
+734 支払う しはらう Trả tiền
+735 死亡 しぼう Chết ,tử vong
+736 資本 しほん Quỹ,vốn
+737 しまい （終わり） Kết thúc
+738 姉妹 しまい Chị em gái
+739 しまう （終わる） Đóng cửa ,kết thúc
+740 しまった （感） ...rồi
+741 自慢 じまん Tự mãn ,tự hào
+742 事務 じむ Kinh doanh
+743 示す しめす chương trình
+744 占める しめる bao gồm, vào tài khoản cho, để làm cho , để giữ, để chiếm
+745 下 しも dưới, bên dưới
+746 霜 しも sương giá
+747 じゃあ じゃあ cũng, cũng sau đó
+748 借金 しゃっきん nợ, cho vay, nợ phải trả
+749 しゃべる しゃべる nói chuyện, trò chuyện, nói nhảm
+750 邪魔 じゃま trở ngại, xâm nhập
+751 週 しゅう tuần
+752 州 しゅう Bãi cát
+753 十 じゅう mười
+754 銃 じゅう Súng
+755 周囲 しゅうい môi trường xung quanh, chu vi, quanh
+756 収穫 しゅうかく thu hoạch, cây trồng, đem lúa đi gặt
+757 週間 しゅうかん tuần, hàng tuần
+758 宗教 しゅうきょう tôn giáo
+759 重視 じゅうし tầm quan trọng, căng thẳng, nghiêm trọng xem xét
+760 就職 しゅうしょく tìm việc làm, khánh thành
+761 ジュース ジュース nước trái cây, nước giải khát
+762 修正 しゅうせい sửa đổi, điều chỉnh
+763 渋滞 じゅうたい tắc nghẽn (ví dụ như giao thông), chậm trễ, trì trệ
+764 重大 じゅうだい nghiêm trọng, quan trọng
+765 住宅 じゅうたく cư trú, nhà ở
+766 集団 しゅうだん nhóm, khối lượng
+767 集中 しゅうちゅう tập trung, tập trung ý thức
+768 収入 しゅうにゅう thu nhập, biên lai, doanh thu
+769 住民 じゅうみん công dân, cư dân
+770 重要 じゅうよう quan trọng, thiết yếu
+771 修理 しゅうり sửa chữa, vá
+772 主義 しゅぎ học thuyết, nguyên tắc, nguyên tắc
+773 宿泊 しゅくはく chỗ ở
+774 手術 しゅじゅつ phẫu thuật hoạt động
+775 首相 しゅしょう Thủ tướng Chính phủ
+776 手段 しゅだん phương tiện, cách thức, biện pháp
+777 主張 しゅちょう khiếu nại, yêu cầu, nhấn mạnh, khẳng định
+778 出身 しゅっしん tốt nghiệp, đến từ
+779 出席 しゅっせき tham dự, sự hiện diện
+780 出発 しゅっぱつ ra đi
+781 出版 しゅっぱん công bố
+782 首都 しゅと thành phố thủ đô
+783 主婦 しゅふ bà nội trợ, người tình
+784 主要 しゅよう trưởng, chính, hiệu trưởng, lớn
+785 需要 じゅよう nhu cầu, yêu cầu
+786 種類 しゅるい đa dạng, loại
+787 順 じゅん trật tự, lần lượt
+788 瞬間 しゅんかん thứ hai, thời điểm này, ngay lập tức
+789 順調 じゅんちょう thuận lợi, làm tốt,tất cả các quyền
+790 順番 じゅんばん biến (phù), tự công việc
+791 準備 じゅんび chuẩn bị, sắp xếp, cung cấp, dự trữ
+792 使用 しよう sử dụng, ứng dụng, sử dụng, việc làm
+793 章 しょう chương, phần, huy chương
+794 賞 しょう giải thưởng
+795 上 じょう khối lượng, chất lượng tốt hơn
+796 障害 しょうがい trở ngại, thiệt hại
+797 奨学金 しょうがくきん học bổng
+798 乗客 じょうきゃく hành khách
+799 上京 じょうきょう tiến tới thủ đô
+800 状況 じょうきょう nhà nước của công việc, tình hình, hoàn cảnh

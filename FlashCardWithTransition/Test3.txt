@@ -1,0 +1,100 @@
+201 当時 とうじ Tại thời điểm đó, trong những ngày
+202 動詞 どうし Động từ
+203 同時 どうじ Đồng thời, cùng một thời gian, đồng bộ
+204 どうしても どうしても Bằng mọi cách, bằng mọi giá, không có vấn đề gì
+205 到着 とうちゃく Đến
+206 道徳 どうとく Đạo đức
+207 投票 とうひょう Bỏ phiếu, thăm dò ý kiến
+208 同様 どうよう Giống hệt nhau, bình đẳng
+209 同僚 どうりょう Đồng nghiệp
+210 道路 どうろ Đường bộ, đường cao tốc
+211 十 とお Mười
+212 通す とおす Để vượt qua, để bỏ qua, để tiếp tục
+213 通り とおり Phù hợp với
+214 通り過ぎる とおりすぎる Để vượt qua, đi qua
+215 都会 とかい Thành phố
+216 時 とき Thời gian, giờ, Nhân dịp này, thời điểm
+217 解く とく Để cởi
+218 毒 どく Chất độc, độc tố
+219 得意 とくい Niềm tự hào, chiến thắng, sự thịnh vượng
+220 読書 どくしょ Đọc
+221 独身 どくしん Độc thân, chưa lập gia đình, sống độc thân
+222 特徴 とくちょう Tính năng, đặc điểm
+223 独特 どくとく Tính đặc thù, tính độc đáo, đặc trưng
+224 独立 どくりつ Độc lập
+225 解ける とける Đến ràng buộc, sự phân tán
+226 どこか どこか Một nơi nào đó, bất cứ nơi nào
+227 ところが ところが Tuy nhiên, trong khi, ngay cả khi
+228 ところで ところで Bằng cách này, ngay cả khi, không có vấn đề gì
+229 登山 とざん Leo núi
+230 都市 とし Thị xã, thành phố
+231 年月 としつき Tháng, năm
+232 図書 としょ Sách
+233 年寄 としより Người già
+234 閉じるとじる 閉じるとじる Đóng cửa
+235 途端 とたん Chỉ
+236 土地 とち Lô đất, đất
+237 突然 とつぜん Đột ngột, bất ngờ
+238 トップ トップ Đầu
+239 届く とどく Tiếp cận
+240 とにかく とにかく Dù sao đi nữa, ở mức nào, dù sao, bằng cách này hay cách khác, nói chung
+241 飛び出すとびだす 飛び出すとびだす Bỏ qua, bỏ qua
+242 留める とめる Để nhảy ra ngoài, phải vội vàng ra, bay ra
+243 友 とも Bạn bè, đồng hành
+244 共に ともに Chia sẻ với, tham gia
+245 土曜 どよう Thứ bảy
+246 虎 とら Con hổ
+247 ドライブ ドライブ Ổ đĩa, chuyến đi bằng xe hơi, lái xe
+248 トラック トラック Xe tải
+249 ドラマ ドラマ Bộ phim truyền hình
+250 トランプ トランプ Chơi bài
+251 取り上げるとりあげる 取り上げるとりあげる Mất, để chọn lên, không đủ điều kiện, tịch thu, tước đoạt
+252 努力 どりょく Nỗ lực tuyệt vời, gắng sức
+253 どれ どれ Tốt, bây giờ, hãy để tôi xem
+254 ドレス ドレス Ăn mặc
+255 取れる とれる Đến, được đưa ra khỏi, để được gỡ bỏ
+256 泥 どろ Bùn
+257 とん とん 1000 tấn
+258 とんでもない とんでもない Bất ngờ, gây khó chịu, một điều để nói, Không thể nào!
+259 どんな どんな Những gì, loại
+260 どんなに どんなに Như thế nào, bao nhiêu
+261 トンネル トンネル Đường hầm
+262 名 な Tên, danh tiếng
+263 内容 ないよう Chủ đề, nội dung, vấn đề chất, chi tiết, nhập khẩu
+264 なお なお Thẳng, nghịch ngợm, thông thường, phổ biến
+265 仲 なか Mối quan hệ
+266 流す ながす Để ráo nước
+267 なかなか なかなか Rất đáng kể, dễ dàng
+268 半ば なかば Giữa, một nửa, bán, nửa đường, một phần
+269 仲間 なかま Công ty, đồng nghiệp
+270 眺め ながめ Cảnh, xem, khách hàng tiềm năng, triển vọng
+271 眺める ながめる Để xem, để chiêm ngưỡng
+272 流れ ながれ Dòng, hiện tại
+273 流れる ながれる Để dòng chảy, để chạy (mực), được rửa sạch
+274 無し なし Mà không
+275 なぜなら なぜなら Vì
+276 謎 なぞ Những câu đố, câu đố, bí ẩn
+277 納得 なっとく Đồng ý, sự hiểu biết
+278 等 など Vân vân, vv, và các loại tương tự
+279 七 なな Bảy
+280 何 なに Những gì
+281 何 なん Những gì
+282 何か なにか Một cái gì đó
+283 なにも なにも Không
+284 鍋 なべ Xong, nồi
+285 生 なま Thô, chưa qua chế biến
+286 怠けるなまける 怠けるなまける Được nhàn rỗi, bỏ bê
+287 波 なみ Sóng
+288 涙 なみだ Xé
+289 悩む なやむ Lo lắng, gặp rắc rối
+290 為る なる Để thay đổi, để được sử dụng, để đạt đến
+291 成る なる Trở thành
+292 縄 なわ Dây thừng, sợi gai dầu
+293 何で なんで Tại sao?, Để làm gì?
+294 何でも なんでも Bởi tất cả các phương tiện, tất cả mọi thứ
+295 何とか なんとか Bằng cách nào đó, dù sao đi nữa, một trong những cách này hay cách khác
+296 似合う にあう Cho phù hợp với, để phù hợp, để trở thành, để được giống như
+297 匂い におい Mùi, hương thơm, mùi vị, mùi hôi thối
+298 苦手 にがて Yếu
+299 握る にぎる Để nắm bắt
+300 日 にち Mặt trời, ánh nắng mặt trời, ngày

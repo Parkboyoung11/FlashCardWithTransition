@@ -1,0 +1,100 @@
+601 小包 こづつみ Bưu phẩm ,gói
+602 事 こと Chuyện ,vấn đề
+603 異なる ことなる Khác nhau,không đồng ý
+604 諺 ことわざ Thành ngữ ,châm ngôn
+605 断る ことわる Từ chối ,bãi bỏ
+606 粉 こな Bột
+607 この この Này
+608 好み このみ Thích ,mùi vị
+609 好む このむ Thích
+610 コピー コピー Copy
+611 塵 ごみ Rác
+612 小麦 こむぎ Lúa mì
+613 ごめんなさい ごめんなさい Tôi xin lỗi
+614 小屋 こや Nhà kho,túp lều
+615 これら これら Những
+616 頃 ころ Khoảng
+617 殺す ころす Giết
+618 転ぶ ころぶ Ngã xuống
+619 今回 こんかい Lần này
+620 今後 こんご Sau
+621 混雑 こんざつ Hỗn tạp
+622 こんなに こんなに Như vậy ,như thế này
+623 困難 こんなん Khó ,phức tạp
+624 今日 こんにち Ngày nay
+625 こんにちは こんにちは Ngàu nay thì
+626 コンピューター コンピューター Máy tính
+627 婚約 こんやく Hôn ước
+628 混乱 こんらん Hỗn loạn
+629 差 さ Sự khác biệt
+630 サービス サービス Phục vụ
+631 際 さい Nhân dịp ,hoàn cảnh
+632 最高 さいこう Cao nhất ,nhiều nhất
+633 財産 ざいさん Tài sản
+634 最終 さいしゅう Cuối cùng
+635 最中 さいちゅう Trong khi,ở giữa
+636 最低 さいてい Thấp nhất
+637 才能 さいのう Tài năng
+638 裁判 さいばん Thẩm phán
+639 材料 ざいりょう Tài liệu
+640 幸い さいわい Hạnh phúc
+641 サイン サイン Chữ ký ,ký
+642 境 さかい Biên giới,ranh giới
+643 逆らう さからう Đi ngược lại ,ngược lại
+644 盛り さかり Gúp đỡ ,phục vụ
+645 作業 さぎょう Làm việc ,sản xuất ,hoạt động
+646 昨 さく Hôm qua
+647 作品 さくひん Tác phẩm
+648 作物 さくもつ Sản xuất cây trồng
+649 桜 さくら Hoa anh đào
+650 酒 さけ Rượu
+651 叫ぶ さけぶ La hét ,khóc
+652 避ける さける Tránh khỏi ,ngăn ngừa
+653 支える ささえる Tbị khóa ,chông đỡ
+654 指す さす Chỉ
+655 座席 ざせき Chỗ ngồi
+656 誘う さそう Mời
+657 札 さつ Tờ ,vé ,nhãn
+658 作家 さっか Tác giả
+659 作曲 さっきょく Soạn nhạc
+660 ざっと ざっと Đại khái,qua loa
+661 さっぱり さっぱり Hoàn toàn ,toàn bộ
+662 さて さて Tốt,bây giờ,sau đó
+663 砂漠 さばく Sa mạc
+664 差別 さべつ Phân biệt
+665 作法 さほう Phong cách,nghi thức
+666 様々 さまざま Đa dạng
+667 覚ます さます Tỉnh giấc
+668 覚める さめる Đánh thức dậy
+669 左右 さゆう Tái phải
+670 皿 さら Đĩa đựng thức ăn
+671 更に さらに Hơn thế nữa
+672 体育 たいいく giáo dục thể chất, thể dục, thể thao
+673 去る さる Ra đi
+674 猿 さる Con khỉ
+675 騒ぎ さわぎ Náo động ,rối loạn
+676 参加 さんか Tham gia
+677 参考 さんこう Tham khảo
+678 賛成 Uӣ[い Tán thành
+679 酸素 さんそ Oxy
+680 散歩 さんぽ Đi dạo ,đi tản bộ
+681 四 し Số 4
+682 氏 し Thị
+683 詩 し bài thơ
+684 幸せ しあわせ Hạnh phúc
+685 ジーンズ ジーンズ Quần jeans
+686 ジェット機 ジェットき Máy bay phản lực
+687 直に じかに Ngay lập tức
+688 しかも しかも Hơn nữa,tuy nhiên
+689 叱る しかる La mắng
+690 式 しき Nghi thức
+691 直 じき Chính xác
+692 時期 じき Thời kỳ,thời gian
+693 支給 しきゅう Trợ cấp
+694 しきりに しきりに Thường xuyên,liên tục
+695 刺激 しげき Kích thích,thúc đẩy
+696 資源 しげん Tài nguyên
+697 事件 じけん Sự kiện
+698 時刻 じこく Thời khóa biểu
+699 自殺 じさつ Tự sát
+700 事実 じ じつ Sự thực

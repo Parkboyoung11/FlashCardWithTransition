@@ -1,0 +1,100 @@
+101 父親 ちちおや cha
+102 知能 ちのう thông minh, bộ não
+103 地平線 ちへいせん chân trời
+104 地方 ちほう khu vực, địa phương, quận, huyện, khu vực, bờ biển
+105 茶 ちゃ trà
+106 チャンス チャンス cơ hội
+107 ちゃんと ちゃんと đúng cách, hoàn hảo
+108 中 ちゅう bên trong, giữa, trong số những
+109 注 ちゅう chú thích, lưu ý, giải thích
+110 中央 ちゅうおう trung tâm
+111 中学 ちゅうがく trung học cơ sở
+112 中古 ちゅうこ sử dụng, second-hand cũ
+113 中止 ちゅうし đình chỉ, gián đoạn, ngưng
+114 駐車 ちゅうしゃ đỗ xe
+115 昼食 ちゅうしょく ăn trưa, bữa ăn trưa
+116 中心 ちゅうしん trung tâm, cốt lõi, tim, trục
+117 注目 ちゅうもく thông báo, sự chú ý, quan sát
+118 注文 ちゅうもん trật tự, yêu cầu
+119 長期 ちょうき khoảng thời gian dài
+120 調査 ちょうさ Điều tra, kiểm tra, khảo sát
+121 調子 ちょうし Giai điệu, chìa khóa
+122 頂上 ちょうじょうHàng đầu, hội nghị thượng đỉnh, đỉnh
+123 ちょうだい ちょうだい Xin vui lòng cho tôi , tiếp nhận, được đưa ra, có được
+124 貯金 ちょきん Tiết kiệm
+125 直接 ちょくせつ Trực tiếp, cá nhân
+126 著者 ちょしゃ Tác giả, nhà văn
+127 遂に ついに Cuối cùng
+128 通過 つうか Quyền qua, đi qua
+129 通学 つうがく Đi lại đến trường
+130 通行 つうこう Đi qua
+131 通じる つうじる Để chạy, dẫn đến, để giao tiếp, để hiểu
+132 通信 つうしん Thư từ, thông tin liên lạc, tin tức, tín hiệu
+133 捕まる つかまる Bị bắt
+134 掴む つかむ Để nắm bắt, để đón
+135 疲れ つかれ Mệt mỏi
+136 月 つき Mặt trăng, tháng
+137 付き合い つきあい Hiệp hội, xã hội hóa, thông
+138 次々 つぎつぎ Tiếp, từng người một
+139 就く つく Giải quyết , nghiên cứu
+140 注ぐ つぐ Đổ (vào), để tưới tiêu
+141 付ける つける Đính kèm, để tham gia, để thêm, để phụ thêm
+142 土 つち Đất
+143 続き つづき Phần tiếp theo, tiếp tục
+144 包み つつみ Bó, gói, bưu kiện, kiện
+145 勤め つとめ Dịch vụ, nhiệm vụ, kinh doanh, trách nhiệm
+146 務め つとめ Dịch vụ, nhiệm vụ
+147 繋ぐ つなぐ Để buộc chặt, để kết nối, chuyển
+148 常に つねに Luôn luôn, liên tục
+149 翼 つばさ Cánh
+150 つまり つまり Trong ngắn hạn, ngắn gọn, nói cách khác
+151 罪 つみ Tội phạm, lỗi, không suy nghi
+152 詰める つめる Để đóng gói, để rút ngắn, để làm việc
+153 積もる つもる Chồng chất lên
+154 梅雨 つゆ Mùa mưa, mưa trong mùa mưa
+155 辛い つらい Đau đớn
+156 連れ つれ Đồng, công ty
+157 で で Thoát ra, tới (đi) ra, sau đại học (của)
+158 出会い であい Cuộc họp, cuộc gặp gỡ, hẹn
+159 出会う であう Để đáp ứng một cách tình cờ, đi qua, để xảy ra gặp phải
+160 提案 ていあん Đề xuất, đề nghị
+161 定期 ていき Có kỳ hạn
+162 抵抗 ていこう Điện trở, phe đối lập
+163 提出 ていしゅつ Trình bày, trình, nộp hồ sơ
+164 程度 ていど Mức độ, số lượng, loại, tiêu chuẩn, các thứ tự của (một số)
+165 停留所 ていりゅうじょ Dừng xe buýt hoặc xe điện
+166 デート デート Nay, đi vào một ngày
+167 敵 てき Kẻ thù, đối thủ
+168 出来事 できごと Sự cố xảy ra, mối quan hệ, sự kiện
+169 適する てきする Để phù hợp với, phù hợp với
+170 適切 てきせつ Thích hợp, phù hợp
+171 適度 てきど Trung bình
+172 適用 てきよう Áp dụng
+173 可能。出現。発生 できる Để có thể chuẩn bị sẵn sàng, xảy ra
+174 出来るだけ できるだけ Nếu có thể
+175 手品 てじな Trò ảo lừa, ảo thuật, tung hứng
+176 ですから ですから Do đó
+177 鉄 てつ Ủi
+178 哲学 てつがく Triết lý
+179 手伝い てつだい Giúp đỡ, trợ giúp, trợ lý
+180 徹底 てってい Triệt để, đầy đủ
+181 鉄道 てつどう Đường sắt
+182 徹夜 てつや Cả đêm
+183 では では Thời điểm khởi hành, bắt đầu công việc
+184 手間 てま Thời gian, lao động
+185 でも でも Nhưng, tuy nhiên
+186 デモ デモ Trình diễn
+187 典型 てんけい Loại, mô hình, nguyên mẫu
+188 天候 てんこう Thời tiết
+189 電子 でんし Điện tử
+190 テント テント Lều
+191 伝統 でんとう Truyền thống
+192 天然 てんねん Tự nhiên, tự phát
+193 度 ど Truy cập cho lần xuất hiện
+194 問い とい Câu hỏi, truy vấn
+195 党 とう Bên (chính trị)
+196 塔 とう Tháp, chùa
+197 接。副 どう Trẻ em, người tôi tớ, ngu ngốc
+198 答案 とうあん Kiểm tra giấy, kiểm tra kịch bản
+199 同一 どういつ Bản sắc, sự giống nhau, tương tự
+200 どうか どうか Đồng xu

@@ -1,0 +1,100 @@
+801 条件 じょうけん điều kiện, điều khoản
+802 正午 しょうご buổi trưa, giữa ngày
+803 正直 しょうじき trung thực, tính toàn vẹn, sự thẳng thắn
+804 常識 じょうしき thông thường
+805 少女 しょうじょ con gái, thiếu nữ, trinh nữ, thời con gái, cô bé
+806 少々 しょうしょう chỉ là một số lượng nhỏ, phút
+807 症状 しょうじょう triệu chứng, điều kiện
+808 生じる しょうじる để sản xuất, sản lượng, dẫn đến phát sinh, để được tạo ra
+809 招待 しょうたい lời mời
+810 状態 じょうたい điều kiện, tình huống, hoàn cảnh, nhà nước
+811 上達 じょうたつ cải tiến, trước, tiến bộ
+812 承知 しょうち sự đồng ý, chấp nhận, đồng ý, thừa nhận
+813 上等 じょうとう ưu thế trên, lớp học đầu tiên, rất tốt
+814 衝突 しょうとつ va chạm, xung đột
+815 商人 しょうにん thương nhân, nhân viên bán hàng, thương gia
+816 承認 しょうにん công nhận, thừa nhận, phê duyệt, chấp thuận, thỏa thuận
+817 少年 しょうねん trẻ em trai, người chưa thành niên
+818 商売 しょうばい thương mại, kinh doanh, thương mại, giao dịch, nghề nghiệp
+819 消費 しょうひ tiêu thụ, chi phí
+820 商品 しょうひん Hàng hóa, bài viết về thương mại,chứng khoán
+821 消防 しょうぼう Chữa cháy, cứu hỏa
+822 情報 じょうほう Thông tin
+823 証明 しょうめい Bằng chứng, xác minh
+824 女王 じょおう Nữ hoàng
+825 職 しょく Việc làm
+826 職業 しょくぎょう Nghề nghiệp, kinh doanh
+827 食事 しょくじ Bữa ăn
+828 食卓 しょくたく Bàn ăn
+829 食品 しょくひん Hàng hóa, thực phẩm
+830 植物 しょくぶつ Thực vật
+831 食物 しょくもつ Thực phẩm, thực phẩm
+832 食欲 しょくよく Sự thèm ăn
+833 食料 しょくりょう Thực phẩm
+834 食糧 しょくりょう Quy định, khẩu phần
+835 書斎 しょさい Nghiên cứu
+836 女子 じょし Người phụ nữ, cô gái
+837 助手 じょしゅ Người giúp việc, trợ lý, gia sư
+838 徐々に じょじょに Từ từ, từng chút một, từng bước, từng bước, lặng lẽ
+839 署名 しょめい Chữ ký
+840 書物 しょもつ Sách
+841 女優 じょゆう Nữ diễn viên
+842 処理 しょり Chế biến, xử lý, điều trị, xử lý, bố trí
+843 書類 しょるい Tài liệu, giấy tờ chính thức
+844 知らせ しらせ Chú ý
+845 尻 しり Mông, phía dưới
+846 印 しるし Nhãn hiệu, biểu tượng
+847 城 しろ Lâu đài
+848 進学 しんがく Đi vào trường đại học
+849 神経 しんけい Thần kinh, nhạy cảm
+850 真剣 しんけん Nghiêm túc
+851 信仰 しんこう Đức tin, niềm tin, tín ngưỡng
+852 信号 しんごう Đèn giao thông, tín hiệu
+853 人工 じんこう Nhân tạo, do con người tạo ra, con người làm việc, kỹ năng con người
+854 深刻 しんこく Nghiêm trọng
+855 診察 しんさつ Khám
+856 人種 じんしゅ Chủng tộc
+857 信じる しんじる Tin, đặt niềm tin
+858 人生 じんせい Cuộc sống
+859 親戚 しんせき Tương đối
+860 身体 しんたい Cơ thể
+861 身長 しんちょう Chiều cao (của cơ thể), tầm vóc
+862 慎重 しんちょう Quyết định, an toàn
+863 心配 しんぱい Lo lắng, quan tâm, lo lắng, chăm sóc
+864 審判 しんぱん Trọng tài, dùng thử, bản án, trọng tài, trọng tài
+865 人物 じんぶつ Nhân vật, tính cách, người, con người, nhân vật, tài năng người đàn ông
+866 進歩 しんぽ Tiến bộ, phát triển
+867 親友 しんゆう Người bạn thân, bạn thân
+868 信用 しんよう Sự tự tin, sự phụ thuộc, tín dụng, đức tin
+869 信頼 しんらい Sự tin cậy, sự tin tưởng, sự tự tin
+870 心理 しんり Tâm lý
+871 人類 じんるい Nhân loại
+872 巣 す Tổ
+873 図 ず Con số , bản vẽ, hình ảnh, minh hoạ
+874 水準 すいじゅん Mực nước, mức, tiêu chuẩn
+875 推薦 すいせん Khuyến nghị
+876 スイッチ スイッチ Chuyển đổi
+877 随分 ずいぶん Cực kỳ
+878 睡眠 すいみん Ngu
+879 数 すう Số lượng, con số
+880 数字 すうじ Chữ số, con số
+881 スープ スープ Súp
+882 末 すえ Kết thúc, bột
+883 姿 すがた Con số, hình dạng, xuất hiện
+884 スキー スキー Trượt tuyết
+885 空く すく Để mở, trở nên trống rỗng, có ít đông đúc
+886 優れる すぐれる Để giải cứu, để giúp đỡ
+887 スケート スケート Để vượt qua, vượt xa, vượt trội
+888 すごい すごい Khủng khiếp, tuyệt vời
+889 少しも すこしも Bất cứ thứ gì, không một chút
+890 過ごす すごす Để vượt qua, để chi tiêu, phải đi qua, để vượt qua
+891 筋 すじ Cơ bắp, dây chuyền, chuỗi
+892 進める すすめる Tạm ứng, để thúc đẩy, đẩy nhanh
+893 勧める すすめる Giới thiệu, tư vấn, khuyến khích, cung cấp (rượu)
+894 スター スターNgôi sao
+895 スタイル スタイル Phong cách
+896 スタンド スタンド Đứng
+897 頭痛 ずつう Đau đầu
+898 ずっと ずっと Liên tiếp, trong suốt, rất nhiều
+899 すてき すてき Đáng yêu, mơ mộng, đẹp, tuyệt vời
+900 既に すでに Đã quá muộn

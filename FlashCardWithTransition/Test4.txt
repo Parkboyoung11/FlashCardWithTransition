@@ -1,0 +1,100 @@
+301 日常 にちじょう Bình thường, thường xuyên, hàng ngày, thông thường
+302 日曜 にちよう Chủ Nhật
+303 日光 にっこう Ánh sáng mặt trời
+304 日中 にっちゅう Ban ngày
+305 にっこり にっこり Mỉm cười ngọt ngào, nụ cười
+306 日本 にっぽん Nhật
+307 日本 にほん Nhật
+308 入院 にゅういん Nhập viện
+309 入学 にゅうがく Nhập học
+310 入場 にゅうじょうTuyển sinh, nhập học, vào
+311 人気 にんき Đăng nhập của cuộc sống
+312 人間 にんげん Con người
+313 抜く ぬく Giải nén, để bỏ qua, để vượt qua, để rút ra, rút phích cắm
+314 抜ける ぬける Đi ra, rơi ra khỏi, để được bỏ qua
+315 濡れる ぬれる Đi ra, rơi ra khỏi, để được bỏ qua
+316 感 ね Value,price,cost,worth,merit
+317 値 ね Value,giá trị, giá cả, chi phí, giá trị, công đứcprice,cost
+318 願い ねがい Mong muốn, mong muốn, yêu cầu
+319 願う ねがう Mong muốn, muốn, yêu cầu
+320 鼠 ねずみ Chuột
+321 値段 ねだん Giá cả, chi phí
+322 熱心 ねっしん Nhiệt huyết, sự nhiệt tình
+323 熱帯 ねったい Nhiệt thành
+324 熱中 ねっちゅう Các loại hạt, sự nhiệt tình, lòng nhiệt thành
+325 年間 ねんかん Năm
+326 年月 ねんげつ Tháng, năm
+327 年中 ねんじゅう Cả năm, luôn luôn, hàng ngày
+328 年代 ねんだい Tuổi tác, thời đại, thời gian, ngày, tháng
+329 年齢 ねんれい Tuổi, năm
+330 野 の Lĩnh vực
+331 能 のう Giỏi là kỹ năng, độc đáo, đúng cách
+332 農家 のうか Nông dân, trang trại gia đình
+333 農業 のうぎょうNông nghiệp
+334 農民 のうみん Nông dân
+335 能力 のうりょくKhả năng, giảng viên
+336 ノー ノー no
+337 軒 のき Mái hiên
+338 残す のこす Để lại , để thừa kế, để tiết kiệm
+339 残り のこり Còn lại dư lượng, còn lại, qua trái
+340 乗せる のせる Đặt (một cái gì đó), đi trên tàu
+341 除く のぞく Để loại bỏ, để loại trừ, ngoại trừ
+342 望み のぞみ Muốn, ham muốn, hy vọng
+343 望む のぞむ Mong muốn, để xem
+344 後 のち Sau đó, kể từ đó, trong tương lai
+345 ノック ノック Đập
+346 喉 のど Họng
+347 伸ばす のばす Kéo dài, để tiếp cận, để phát triển
+348 伸びる のびる Để kéo dài, mở rộng, thực hiện tiến bộ
+349 述べる のべる Nhà nước, thể hiện, đề cập đến
+350 昇る のぼる Phát sinh, đi lên
+351 のんびり のんびり Vô tư, lúc giải trí
+352 場 ば Địa điểm, lĩnh vực
+353 パーセント パーセント Phần trăm
+354 感 はい Mặc, đặt trên
+355 灰 はい Tro
+356 梅雨 ばいう Mùa mưa, mưa trong mùa mưa
+357 バイオリン バイオリン Violon
+358 ハイキング ハイキング Đi bộ đường dài
+359 配達 はいたつ Giao hàng, phân phối
+360 パイプ パイプ Đường ống, ống, kênh chính thức
+361 俳優 はいゆう Diễn viên, nữ diễn viên, người chơi, biểu diễn
+362 パイロット パイロット Phi công
+363 墓 はか Mộ, ngôi mộ
+364 馬鹿 ばか Kẻ ngốc, đồ ngốc, tầm thường vật chất
+365 博士 はかせ Tiến sĩ
+366 計る はかる Để đo lường, để cân nhắc, để khảo sát
+367 履く はく Để mặc, để đưa vào
+368 吐く はく Để thở, nôn ra
+369 拍手 はくしゅ Vỗ tay, tiếng vỗ tay
+370 莫大 ばくだい Rất lớn, rộng lớn
+371 爆発 ばくはつ Nổ, phun trào
+372 博物館 はくぶつかんBảo tàng
+373 激しい はげしい Bạo lực, mãnh liệt
+374 はさみ はさみ Kéo
+375 破産 はさん Phá sản
+376 端 はし Kết thúc , cạnh, tip, lề, điểm
+377 始まり はじまり Nguồn gốc, bắt đầu
+378 パス パス Con đường, vượt qua
+379 外す はずす Cởi, để loại bỏ
+380 パスポート パスポート Hộ chiếu
+381 旗 はた Cờ
+382 肌 はだ Da
+383 裸 はだか Khỏa thân
+384 畑 はたけ Lĩnh vực
+385 二十 はたち 20 tuổi
+386 働き はたらき Làm việc, lao động
+387 バッグ バッグ Túi xách, lỗi
+388 発見 はっけん Khám phá, phát hiện, tìm kiếm
+389 発行 はっこう Vấn đề
+390 発車 はっしゃ Khởi hành của một chiếc xe
+391 罰する ばっする Trừng phạt
+392 発達 はったつ Phát triển, tốc độ tăng trưởng
+393 ばったり ばったり Với một cuộc đụng độ
+394 発展 はってん Phát triển, tốc độ tăng trưởng
+395 発表 はっぴょう Công bố, xuất bản
+396 発明 はつめい Phát minh
+397 話し合う はなしあうĐể thảo luận, nói chuyện với nhau
+398 離す はなす Một phần, phân chia riêng biệt,
+399 放す はなす Tách biệt, để thiết lập miễn phí
+400 離れる はなれる Được tách ra khỏi

@@ -1,0 +1,100 @@
+901 すなわち すなわち Có nghĩa là, cụ thể là, nghĩa là
+902 素晴らしい すばらしい Tuyệt vời, lộng lẫy, tráng lệ
+903 スピーチ スピーチ Bài phát biểu
+904 全て すべて Tất cả, toàn bộ, hoàn toàn, nói chung, hoàn toàn
+905 済ませるすませる 済ませるすませる Được hoàn thành
+906 角 すみ Râu
+907 すみません（感） Xin lỗi
+908 為る する Để thay đổi, để được sử dụng, để đạt đến
+909 すると すると Về điểm ấy
+910 鋭い せい Chiều cao, tầm vóc
+911 正 せい (hợp lý) đúng sự thật, thường xuyên
+912 生 せい Dự thảo ,thô, chưa qua chế biến
+913 性 せい Giới tính
+914 所為 せい Nguyên nhân, lý do, lỗi
+915 性格 せいかく Nhân vật, tính cách
+916 正確 せいかく Chính xác, đúng giờ, tính chính xác, tính xác thực, tính xác thực
+917 世紀 せいき Thế kỷ, thời đại
+918 請求 せいきゅう Khiếu nại, yêu cầu, ứng dụng, yêu cầu
+919 税金 ぜいきん Thuế, nhiệm vụ
+920 清潔 せいけつ Sạch
+921 制限 せいげん Hạn chế, hạn chế, hạn chế
+922 成功 せいこう Thành công
+923 生産 せいさん Sản xuất
+924 正式 せいしき Hợp thức, chính thức
+925 精神 せいしん Tâm trí, linh hồn, trái tim, tinh thần, ý định
+926 成人 せいじん Người lớn
+927 精々 せいぜい Nhất, tốt nhất, tối đa càng nhiều càng tốt
+928 成績 せいせき Kết quả, kỷ lục
+929 製造 せいぞう Sản xuất
+930 贅沢 ぜいたく Sang trọng, lãng phí
+931 成長 せいちょう Tăng trưởng, phát triển đến tuổi trưởng thành
+932 制度 せいど Hệ thống, tổ chức, tổ chức
+933 青年 せいねん Thanh niên
+934 製品 せいひん Sản xuất hàng hóa, thành phẩm
+935 政府 せいふ Chính phủ, hành chính
+936 生物 せいぶつ Nguyên liệu thực phẩm
+937 生命 せいめい Cuộc sống, sự tồn tại
+938 整理 せいり Phân loại, sắp xếp, điều chỉnh, quy định
+939 咳 せき Ho
+940 石炭 せきたん Than
+941  絶滅 ぜつめつ Phá hủy, sự tuyệt chủng
+942 責任 せきにん Nhiệm vụ, trách nhiệm
+943 石油 せきゆ Dầu, dầu khí, dầu hỏa
+944 世間 せけん Thế giới, xã hội
+945 説 せつ Lý thuyết
+946 積極的 せっきょくてき Tích cực, năng động, chủ động
+947 設計 せっけい Kế hoạch, thiết kế
+948 絶対 ぜったい Tuyệt đối, vô điều kiện
+949 セット セット Đặt
+950 設備 せつび Thiết bị, phương tiện, cài đặt
+951 絶滅 ぜつめつ Phá hủy, sự tuyệt chủng
+952 節約 せつやく Kiệm, tiết kiệm
+953 是非 ぜひ Chắc chắn, không có thất bại
+954 責める せめる Để lên án, để đổ lỗi, chỉ trích
+955 世話 せわ Chăm sóc, giúp đỡ, viện trợ, hỗ trợ
+956 善 ぜん Tốt, tốt đẹp, phải, đạo đức
+957 全 ぜん Tất cả, toàn bộ, hoàn chỉnh, tổng thể
+958 全員 ぜんいん Tất cả các thành viên
+959 専攻 せんこう Chủ đề lớn, đặc biệt nghiên cứu
+960 全国 ぜんこく Toàn quốc, cả nước, quốc gia
+961 先日 せんじつ Các ngày khác, một vài ngày trước
+962 前者 ぜんしゃ Trước đây
+963 選手 せんしゅ Cầu thủ , nhóm
+964 前進 ぜんしん Trước, ổ đĩa, tiến bộ
+965 全然 ぜんぜん Hoàn toàn, không phải ở tất cả
+966 センター センター Trung tâm
+967 全体 ぜんたい Toàn bộ, bất cứ điều gì
+968 選択 せんたく Lựa chọn, sự lựa chọn
+969 そう そう Để
+970 象 ぞう Voi
+971 騒音 そうおん Tiếng ồn
+972 増加 ぞうか Tăng, bổ sung
+973 操作 そうさ Hoạt động, quản lý, chế biến
+974 掃除 そうじ Làm sạch, quét
+975 想像 そうぞう trí tưởng tượng, đoán
+976 相続 そうぞく kế, thừa kế
+977 相談 そうだん tham khảo ý kiến, thảo luận
+978 装置 そうち thiết bị, lắp đặt
+979 相当 そうとう phù hợp, công bằng, chấp nhận, thích hợp
+980 速度 そくど tốc độ, vận tốc, tỷ lệ
+981 そこ そこ dưới, duy nhất
+982 底 そこ dưới, duy nhất
+983 そこで そこで như vậy , phù hợp, bây giờ, sau đó
+984 組織 そしき tổ chức, cấu trúc, xây dựng, mô, hệ thống
+985 そして そして và
+986 注ぐ そそぐ đổ , để tưới tiêu, trả tiền, để điền vào, để nuôi
+987 育つ そだつ nâng cao , được đưa lên, để phát triển
+988 そっくり そっくり tất cả, hoàn toàn,giống như
+989 そっと そっと mặt trái đất
+990 袖 そで tay áo
+991 備える そなえる cung cấp, để cung cấp cho, để trang bị cho, để cài đặt
+992 その その mà
+993 そのうち そのうち cuối cùng, sớm hay muộn, đã đề cập trước đó
+994 そのまま そのまま mà không thay đổi, vì nó là
+995 側 そば bên, cạnh, ba người
+996 ソファー ソファー sofa, chiếc ghế
+997 粗末 そまつ thô, đồng bằng, khiêm tốn
+998 それ （接.感）nó, đó
+999 それぞれ それぞれ mỗi hàng, hoặc, tương ứng, rẽ
+1000 それでも それでも nhưng , và được nêu ra, tuy nhiên, ngay cả như vậy, mặc dù
